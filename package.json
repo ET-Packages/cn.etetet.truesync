@@ -12,8 +12,5 @@
     "type": "git",
     "url": "https://github.com/egametang/ET"
   },
-  "relatedPackages": {},
-  ".gitDependencies": {
-    "memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack#1.10.0"
-  }
+  "relatedPackages": {}
 }
