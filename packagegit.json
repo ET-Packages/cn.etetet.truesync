@@ -2,6 +2,6 @@
 "Id": 22,
 "Name": "TrueSync",
 "GitDependencies": {
-  "memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack#1.10.0"
+  "com.cysharp.memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack#1.10.0"
 }
 }
