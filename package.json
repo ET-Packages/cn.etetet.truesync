@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.truesync",
   "displayName": "ET.TrueSync",
-  "version": "0.0.4",
+  "version": "3.0.0",
   "unity": "2022.3",
   "description": "帧同步用的定点数实现",
   "author": {
